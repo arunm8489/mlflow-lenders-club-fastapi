@@ -1,0 +1,7 @@
+mlflow
+cloudpickle==2.0.0
+scikit-learn==1.0
+fastapi
+uvicorn[standard]
+pickle
+joblib
